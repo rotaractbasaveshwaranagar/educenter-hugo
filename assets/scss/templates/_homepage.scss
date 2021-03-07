@@ -5,6 +5,14 @@
   display: inline-block;
 }
 
+.feature-icon-small {
+  font-size: 40px;
+  color: $primary-color;
+  display: inline-block;
+}
+
+
+
 .feature-blocks {
   margin-top: -100px;
   padding-left: 70px;
@@ -218,7 +226,7 @@
 
 .footer {
   border-color: #494a43 !important;
-  padding-top: 275px;
+  padding-top: 100px;
 }
 
 /* /footer */
